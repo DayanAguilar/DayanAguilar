@@ -270,56 +270,15 @@ Designed and developed an AI-powered chatbot to automate FAQ and complaint handl
 <img src="https://img.shields.io/badge/100%20Days%20of%20Code-1e1b3a?style=flat-square&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/React%20%2B%20Next.js%2014-1e1b3a?style=flat-square&logo=nextdotjs&logoColor=white" />
 
-> *No LeetCode / HackerRank / GeeksforGeeks / CodeChef profiles were listed on the source CV — add your handles here if you have them:*
->
-> `[![LeetCode](https://img.shields.io/badge/LeetCode-1e1b3a?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/YOUR-USERNAME)`
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=c4b5fd" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0f0524&stroke=8b5cf6&ring=a78bfa&fire=a78bfa&currStreakLabel=c4b5fd" />
-
-</div>
-
----
-
-### 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=algolia&column=7&margin-w=10&margin-h=10&no-frame=true&background=0f0524" />
-
-</div>
-
----
 
 ### 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&bg_color=0f0524&color=a78bfa&line=8b5cf6&point=c4b5fd&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DayanAguilar&theme=react-dark&bg_color=0f0524&color=a78bfa&line=8b5cf6&point=c4b5fd&hide_border=true" />
 
 </div>
 
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
 
 ### 🎯 Current Focus
 
